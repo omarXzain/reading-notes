@@ -34,4 +34,4 @@ and i can use a link or a path__
 - [x] Black
 - [ ] Blue
 - [ ] Brown
-- And thats it :blush::blush::blush:
+- And thats it :blush: :blush: :blush:
