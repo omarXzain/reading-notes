@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code :two::zero::one: Reading Notes
 ------------------------
 
 ## About Markdown on Github
@@ -22,3 +22,15 @@ __I can define relative links and image paths in rendered files to help readers 
 and i can use a link or a path 
 [Project Contribution guidelines](LINK OR PATH.extension)
 
+- i can use imoji
+ :+1: :angry::angry::angry::angry::mask::mask::mask::mask::new_moon_with_face::cherries:
+ 
+ ## About GitHub Pages
+ **I can make alot of thing in github pages ... i can add my web content easliy.  blog, docs and i can draft things so i can edit it anytime before publishing and also preview my work instantly, also i can share it with everyone which is a great thing**
+ 
+ - GitHub Flavored Markdown Spec.
+ - [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+ 
+ And thats it :blush::blush::blush:
