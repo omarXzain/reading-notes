@@ -13,8 +13,8 @@ And make it easy for us to understand and organize our codes and make it more be
 ##### Code 201
 
 - I can indicate emphasis with bold, italic or strikethrough text
-1. Bold:  **Code 201**
-2. italic:  *Code 201*
+  1. Bold:  **Code 201**
+  2. italic:  *Code 201*
 
 
 ## Relative links
