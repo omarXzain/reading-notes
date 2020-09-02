@@ -1,4 +1,4 @@
-# Code :two::zero::one: Reading Notes
+# Code 201 Reading Notes
 ------------------------
 
 ## About Markdown on Github
