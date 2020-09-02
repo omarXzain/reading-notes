@@ -20,7 +20,7 @@ And make it easy for us to understand and organize our codes and make it more be
 ## Relative links
 __I can define relative links and image paths in rendered files to help readers navigate to other files in my repository__
 and i can use a link or a path 
-[Project Contribution guidelines](LINK OR PATH.extension)
+[MY README LINK](https://github.com/omarXzain/reading-notes/blob/master/README.md)
 
 - i can use imoji
  :+1: :angry::angry::angry::angry::mask::mask::mask::mask::new_moon_with_face::cherries:
