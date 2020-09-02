@@ -29,8 +29,9 @@ and i can use a link or a path
  **I can make alot of thing in github pages ... i can add my web content easliy.  blog, docs and i can draft things so i can edit it anytime before publishing and also preview my work instantly, also i can share it with everyone which is a great thing**
  
  - GitHub Flavored Markdown Spec.
- - [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
- 
- And thats it :blush::blush::blush:
+- My eyes color:
+ - [ ] Green
+- [x] Black
+- [ ] Blue
+- [ ] Brown
+- And thats it :blush::blush::blush:
