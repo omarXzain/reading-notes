@@ -18,12 +18,12 @@ And make it easy for us to understand and organize our codes and make it more be
 
 
 ## Relative links
-__I can define relative links and image paths in rendered files to help readers navigate to other files in my repository__
-and i can use a link or a path 
-[MY README LINK](https://github.com/omarXzain/reading-notes/blob/master/README.md)
+__I can define relative links and image paths in rendered files to help readers navigate to other files in my repository
+and i can use a link or a path__
+[My Rendered README LINK](https://github.com/omarXzain/reading-notes/blob/master/README.md)
 
 - i can use imoji
- :+1: :angry::angry::angry::angry::mask::mask::mask::mask::new_moon_with_face::cherries:
+ :+1::angry::angry::angry::angry::mask::mask::mask::mask::new_moon_with_face::cherries:
  
  ## About GitHub Pages
  **I can make alot of thing in github pages ... i can add my web content easliy.  blog, docs and i can draft things so i can edit it anytime before publishing and also preview my work instantly, also i can share it with everyone which is a great thing**
