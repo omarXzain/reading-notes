@@ -108,7 +108,7 @@ you will find in them**
 
 ## Headers & Footers
 - We will talk about the elements inside this this section:
-- header - footer - nav and article and the aside 
+- header - footer - nav and article and the aside , section , hgroup
 1. About The <article> element: it acts as a container for any section of a page that could stand alone and potentially be syndicated.
 2. aside element: The <aside> element has two purposes, depending on whether it is inside an <article> element or not. 
 
