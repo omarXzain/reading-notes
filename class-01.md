@@ -43,18 +43,14 @@ The HTML code (in blue) is made up of characters that live inside angled bracket
 ---------------------
 ### we will focus and learn about:
 
-● The different versions of HTML and how to indicate which
-version you are using
-● How to add comments to your code
-● Global attributes, which are attributes that can be used on
-any element, including the class and id attributes
-● Elements that are used to group together parts of the page
-where no other element is suitable
-● How to embed a page within a page using iframes
-● How to add information about the web page using the
-<meta> element
-● Adding characters such as angled brackets and copyright
-symbols
+- The different versions of HTML and how to indicate which
+version you are using.
+- How to add comments to your code.
+- Global attributes, which are attributes that can be used on any element, including the class and id attributes.
+- Elements that are used to group together parts of the page where no other element is suitable.
+- How to embed a page within a page using iframes.
+- How to add information about the web page using the <meta> element.
+- Adding characters such as angled brackets and copyright symbols.
 
 ### DOCTYPEs
 ![DOCTYPEs](https://www.minddevelopmentanddesign.com/wp-content/uploads/2009/12/shutterstock_117763438.jpg)
@@ -72,9 +68,59 @@ characters:
 ------------------------------------------------------------
 ## Block Elements
 
-!{}(https://puzzleweb.ru/en/images/html/type_el.png)
+![Block Elements](https://puzzleweb.ru/en/images/html/type_el.png)
 
-Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
+**Some elements will always appear to start on a new line in the browser window. These are known as block level elements**
+
+## Inline Elements
+As I said above in the inline picture like: a b en img (in tags)
+**Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements**## 
+
+## IFrames
+**An iframe is like a little window that has been cut into your page and in that window you can see another page
+The termiframe is an abbreviation of inlineframe**
+- iframe is created using the iframe> element.
+There are a
+few attributes that you will need
+to know to use it:
+src : The src attribute specifies the
+URL of the page to show in the
+frame.
+height and width
+
+
+![](https://i.ytimg.com/vi/A3yBDVwODUc/hqdefault.jpg)
+
+-------------------------------------------------------
+# HTML5 Layout
+**HTML5 is introducing a new set of elements that help define the structure of a page**
+
+- The new HTML5 layout elements and their uses.
+- How they offer helpful alternatives to the <div> element.
+- How to ensure older browsers recognize these elements.
+ 
+ ## Layout Elements
+**HTML5 introduces a new set of elements that allow you to divide up the
+parts of a page. The names of these elements indicate the kind of content
+you will find in them**
+
+![](https://qph.fs.quoracdn.net/main-qimg-0e07f207e1a55c01bd2b60389c08e8f9)
+
+## Headers & Footers
+- We will talk about the elements inside this this section:
+- header - footer - nav and article and the aside 
+1. About The <article> element: it acts as a container for any section of a page that could stand alone and potentially be syndicated.
+2. aside element: The <aside> element has two purposes, depending on whether it is inside an <article> element or not. 
+
+![](https://www.w3resource.com/w3r_images/html5-aside-image.png)
+
+- When the <aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. 
+- example:
+ a pullquote or glossary might be considered as an aside to the article it relates to.
+
+
+
+
 
 
 
