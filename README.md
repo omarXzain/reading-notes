@@ -1,6 +1,25 @@
 # Code 201 Reading Notes
 ------------------------
 
+## Table Of Content:
+- class 01   | [read 1]()
+- class 02   | [read 2]()
+- class 03   | [read 3]()
+- class 04   | [read 4]()
+- class 05   | [read 5]()
+- class 06   | [read 6]()
+- class 07   | [read 7]()
+- class 08   | [read 8]()   
+- class 09   | [read 9]()
+- class 10    | [read 10]()
+- class 11    | [read 11]()
+- class 12    | [read 12]() 
+- class 13    | [read 13]()
+- class 14    | [read 14]()
+- class 15    | [read 15]()
+
+---------------------------
+
 ## About Markdown on Github
 **Markdown is a way to style and decorate text, links, images on the web.
 And make it easy for us to understand and organize our codes and make it more beatiful to the reader that help us to read more faster and to reach to what we want fast in a beautiful and organized way using (symbols)**
@@ -35,23 +54,6 @@ and i can use a link or a path__
 - [ ] Blue
 - [ ] Brown
 
-
-## Table Of Content:
-- class 01    | [read 1]()
-- class 02    | [read 2]()
-- class 03    | [read 3]()
-- class 04    | [read 4]()
-- class 05    | [read 5]()
-- class 06    | [read 6]()
-- class 07    | [read 7]()
-- class 08    | [read 8]()   
-- class 09    | [read 9]()
-- class 10    | [read 10]()
-- class 11    | [read 11]()
-- class 12    | [read 12]() 
-- class 13    | [read 13]()
-- class 14    | [read 14]()
-- class 15    | [read 15]()
 
 
 
