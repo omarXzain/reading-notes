@@ -118,6 +118,93 @@ you will find in them**
 - example:
  a pullquote or glossary might be considered as an aside to the article it relates to.
 
+-----------------------------------------------------------------------
+
+# Process & Design
+**This section discusses a process that you can use when you are creating a new website**
+Target Audience: Companies
+- What is the size of the company or relevant department?
+- What is the position of people in the company who visit your site?
+- Will visitors be using the site for themselves or for someone else?
+- How large is the budget they control?
+
+## Why People Visit YOUR Website;
+1. you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason
+
+2. What Information Your Visitors Need: You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
+
+3. Some sites benefit from being updated more frequently than others, while other content remains relatively static.
+
+4. Site Map:
+Example :
+![](https://digestwebdesign.com/images/sitemap.jpg)
+
+
+## WireFrames
+A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+
+![](https://algoworksupload.s3.amazonaws.com/new-algoworks/wp-content/uploads/2016/03/09105958/How-to-Create-the-First-Wireframe-of-Your-Application1.jpg)
+
+
+### What we must learn as a 102 students?
+1. It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
+2. Site maps allow you to plan the structure of a site.
+3. Wireframes allow you to organize the information that will need to go on each page.
+4. Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+5. You can differentiate between pieces of information using size, color, and style.
+6. You can use grouping and similarity to help simplify the information you present.
+
+
+============================================================================
+
+# About JAVASCRIPT
+- What is a script ?
+![](https://codelearnstorage.s3.amazonaws.com/Upload/Blog/tai-sao-nen-hoc-javascript-63728744439.8512.jpg)
+**A script is a series of instructions that a computer can follow to achieve a goal**
+
+## WRITING A SCRIPT
+- To write a script, you need to first state your goal and list the tasks that need to be completed in order to achieve it
+
+## WEB BROWSERS
+__ARE PROGRAMS BUILT USING OBJECTS__
+__THE DOCUMENT OBJECT REPRESENTS AN HTML PAGE__
+**Using the document object, you can access and change what content users see on the page and respond to how they interact with it
+
+### HOW A BROWSER SEES A WEB PAGE
+1: RECEIVE A PAGE AS HTML CODE
+2. CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY 
+3. USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN 
+
+- you need to know how a browser interprets the HTML code and applies styling to it
+- All major browsers use a JavaScript interpreter to translate your instructions
+
+## HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER 
+
+![](https://slideplayer.com/slide/17397404/101/images/2/How+HTML%2C+CSS%2C+and+JS+Fit+Together.jpg)
+
+## LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE
+**When you want to use JavaScript with a web page, you use the HTML script> element to tell the browser it is coming across a script, Its s re attribute tells people where the JavaScript file is stored**
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Constructive &amp; Co.</ title>
+<link rel ="stylesheet" href="css/ cOl.css" />
+</ head>
+<body>
+<hl>Constructive &amp ; Co. </ hl>
+<script src="js/ add-content.js"></ script>
+<p>For all orders and i nquiries please cal l
+<em>SSS-3344</ em></ p>
+</ body
+
+
+
+## PLACING THE SCRIPT IN THE PAGE
+You may see JavaScript in the HTML between opening <script> and closing </script> tags (but it is better to put scripts in their own files). 
+
+
 
 
 
