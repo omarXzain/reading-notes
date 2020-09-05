@@ -34,8 +34,6 @@ The HTML code (in blue) is made up of characters that live inside angled bracket
 3. The valueof this attribute on this page specifies it is in US English.
 4. Most attribute values are either pre-defined or follow a stipulated format.
 5. The value of the lang attribute is an abbreviated way of specifying which language is used inside the element that all browsers understand
-- Examble :
-<p lang="fr">   Paragraphe en Français <p>
  - Anything written between the title> tags will appear in the title bar (or tabs) at the top of the browser window, highlighted in orange here. 
   
 
