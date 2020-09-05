@@ -2,6 +2,8 @@
 ------------------------
 
 ## Table Of Content:
+   Read#             | Reading Topics
+  ------------------ | ------------------- 
 - Class01 -  | [Introductory HTML and JavaScript](https://omarxzain.github.io/reading-notes/class-01)
 - Class02 -  | [read 2]()
 - Class03 -  | [read 3]()
