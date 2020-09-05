@@ -186,7 +186,7 @@ __THE DOCUMENT OBJECT REPRESENTS AN HTML PAGE__
 ## PLACING THE SCRIPT IN THE PAGE
 You may see JavaScript in the HTML between opening <script> and closing </script> tags (but it is better to put scripts in their own files). 
 
-==========================================================
+==========================================
 
 ## Thx for reading :heart::heart::heart:
 
