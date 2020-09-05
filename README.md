@@ -2,21 +2,21 @@
 ------------------------
 
 ## Table Of Content:
-- class 01| [Introductory HTML and JavaScript](https://omarxzain.github.io/reading-notes/class-01)
-- class 02| [read 2]()
-- class 03| [read 3]()
-- class 04| [read 4]()
-- class 05| [read 5]()
-- class 06| [read 6]()
-- class 07| [read 7]()
-- class 08| [read 8]()   
-- class 09| [read 9]()
-- class 10 | [read 10]()
-- class 11 | [read 11]()
-- class 12 | [read 12]() 
-- class 13 | [read 13]()
-- class 14 | [read 14]()
-- class 15 | [read 15]()
+Class01 -  | [Introductory HTML and JavaScript](https://omarxzain.github.io/reading-notes/class-01)
+Class02 -  | [read 2]()
+Class03 -  | [read 3]()
+Class04 -  | [read 4]()
+Class05 -  | [read 5]()
+Class06 -  | [read 6]()
+Class07 -  | [read 7]()
+Class08 -  | [read 8]()   
+Class09 -  | [read 9]()
+Class10 -  | [read 10]()
+Class11 -  | [read 11]()
+Class13 -  | [read 12]() 
+Class13 -  | [read 13]()
+Class14 -  | [read 14]()
+Class15 -  | [read 15]()
 
 
 
