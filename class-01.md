@@ -193,5 +193,5 @@ You may see JavaScript in the HTML between opening <script> and closing </script
 ==========================================
 # Table of content Link
 https://omarxzain.github.io/reading-notes
-==========================================
+
 
