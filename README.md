@@ -2,7 +2,7 @@
 ------------------------
 
 ## Table Of Content:
-- class 01| [read 1](https://omarxzain.github.io/reading-notes/class-01)
+- class 01| [Introductory HTML and JavaScript](https://omarxzain.github.io/reading-notes/class-01)
 - class 02| [read 2]()
 - class 03| [read 3]()
 - class 04| [read 4]()
@@ -18,7 +18,10 @@
 - class 14 | [read 14]()
 - class 15 | [read 15]()
 
----------------------------
+
+
+
+===========================================================
 
 ## About Markdown on Github
 **Markdown is a way to style and decorate text, links, images on the web.
