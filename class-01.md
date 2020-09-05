@@ -185,6 +185,7 @@ __THE DOCUMENT OBJECT REPRESENTS AN HTML PAGE__
 ## LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE
 **When you want to use JavaScript with a web page, you use the HTML script> element to tell the browser it is coming across a script, Its s re attribute tells people where the JavaScript file is stored**
 
+Examble:
 
 <!DOCTYPE html>
 <html>
