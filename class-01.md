@@ -190,8 +190,8 @@ You may see JavaScript in the HTML between opening <script> and closing </script
 
 Thx for reading :heart::heart::heart:
 
-
-
-
-
+------------------------------------------
+Table of content Link
+https://omarxzain.github.io/reading-notes/
+------------------------------------------
 
