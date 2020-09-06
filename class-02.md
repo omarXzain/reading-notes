@@ -70,44 +70,102 @@ HTML has six "levels" of headings:and we can mention he h element
 3. p { color: #red;}
 
 
+-------------------------------------------------------
+## Why use External Style Sheets?
+- Ok 102 students lets talk about this, when building a website there are several advantages to placing your CSS rules in a separate style sheet. and ithing it's recomanded to use externa css file more than the others way because we can control the html file more and sometimes you might consider placing css rules in the same page as your HTML code 
+
+### Example About all CSS Methods
+![](https://www.bitdegree.org/learn/storage/media/images/8c4493d3-110c-4a95-8b70-7626ce2d2f4e.o.jpg)
+
+
+-------------------------------------
+# About Basic JavaScript Instructions
+-------------------------------------
+- It is about learning to read and write JavaScript, also learn how to give a web browser instructions you want it to follow. 
+- It is just like a script and instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.
+
+### Example:
+1. var today= new Date{);
+2. var hourNow = today.getHours{) ;
+3. var greeting;
+4. if (hourNow > 18) {
+5. greeting= 'Good evening';
+6. }else if (hourNow > 12) {
+7. greeting= 'Good afternoon';
+8. }else if (hourNow > O) {
+9. greeting 'Good morning';
+10. } else {
+11. greeting 'Welcome';}
+12. document.write(greeting) ;
+
+![](https://i.ytimg.com/vi/UZKnICO3i6U/hqdefault.jpg)
+
+
+## Note: 
+- **STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE**
+- **STATEMENTS CAN BE ORGANIZED INTO CODE BLOCKS** 
+
+### About Comments
+We should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code
 
 
 
 
+## USING A VARIABLE TO STORE A NUMBER
+
+- Example:
+
+1. var price;
+2. var quantity;
+3. var total;
+4. price = 5;
+5. quantity = 14;
+6. total = price * quantity;
+7. var el = document.getElementByid( ' cost ');
+8. el .textContent = '$' +total; 
 
 
+ ![sn](https://www.geeksread.com/wp-content/uploads/2018/03/j5SS1.jpg)
 
 
+## RULES FOR NAMING VARIABLES 
+
+1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
+2. The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name. 
+3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something.
+4. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases. 
+5. Use a name that describes the kind of information that the variable stores.
+6. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. 
+
+![](https://dl.dropboxusercontent.com/s/9sm26931dnyl0bs/jsvar.png)
+
+## About ARRAYS 
+**An array is a special type of variable. It doesn't just store one value; it stores a list of values** 
+
+![](https://www.forcode.es/wp-content/uploads/2014/01/post-arrays.jpg)
+
+- You should consider using an array whenever you are working with a list or a set of values that are related to each other
 
 
+## About OPERATORS 
+**They allow programmers to create a single value from one or more values**
 
+1. STRING OPERATORS 
+2. LOGICAL OPERATORS 
+3. ASSIGNMENT OPERATORS 
+4. COMPARISON OPERATORS 
+5. ARITHMETIC OPERATORS 
 
+- Example 
+![](https://images.slideplayer.com/29/9493458/slides/slide_34.jpg)
 
+## DECISIONS & LOOPS
+**in the comparison operator, the operand on the left calculates the user's total score. The operand on the right adds together the highest scores for each round. The result is then added to the page. When you assign the result of the comparison to a variable, you do not strictly need the containing parentheses**
 
+- Example
+1[](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-do-while-loop.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------------------------------------
 
 
 
