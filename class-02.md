@@ -162,7 +162,7 @@ We should write comments to explain what your code does. They help make your cod
 ## DECISIONS & LOOPS
 **in the comparison operator, the operand on the left calculates the user's total score. The operand on the right adds together the highest scores for each round. The result is then added to the page. When you assign the result of the comparison to a variable, you do not strictly need the containing parentheses**
 
-- Example
+
 ![](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-do-while-loop.png)
 
 -----------------------------------------------------------------------------------------------
