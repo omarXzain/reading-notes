@@ -20,7 +20,7 @@
 
 # About Boxes 
 -------------
-**The most popular ways to specify the size of a box are to use pixels, percentages, it set several properties that affect the appearance of these boxes.
+**The most popular ways to specify the size of a box are to use pixels, percentages, it set several properties that affect the appearance of these boxes**
 
 1. CSS treats each HTML element as if it has its own box. 
 2. You can use CSS to control the dimensions of a box 
@@ -38,7 +38,7 @@
 ## Border Style
 - You can control the style of a border using the border-style property.
 
-Exmample
+Exmaple
 1. ridge: appears to stick out from the page
 2. inset: appears embedded into the page
 3. outset: looks like it is coming out of the screen
@@ -76,18 +76,49 @@ border-color: #0088dd;}
 
 
 ### border-radius:
-**CSS3 introduces the ability to create rounded corners on any box, using a property called border-radius. 
+**CSS3 introduces the ability to create rounded corners on any box, using a property called border-radius** 
 - The valueindicates the size of the radius in pixels.
 
 ![](https://i.pinimg.com/originals/5b/91/42/5b91425941556a478fb427023e68d5c2.png)
 
 
+---------------------------------------------------
+
+# About Basic JavaScript Instructions
+- A script is made up of a series of statements, each statement is like a step in a recipe.
+- Variables are used to temporarily store pieces of information used in the script.  
+- Expressions rely on operators to calculate a value, and evaluate into a single value.
+
+
+## STRING OPERATORS 
+
+**There are two string operators. The first is the concatenation operator ('. '), which returns the concatenation of its right and left arguments. The second is the concatenating assignment operator (' . = ')**
+
+
+## ARITHMETIC OPERATORS 
+**Arithmetic operators are used to perform arithmetic on numbers: Operator, Description. +, Addition. -, Subtraction**
+
+
+![](https://miro.medium.com/max/2560/1*jKdQdEWMbRvgriXypDOyrA.jpeg)
 
 
 
+--------------------------------------------------------
+
+# Switch Statement
+**The switch statement evaluates an expression, The value of the expression is then compared with the values of each case in the structure. If there is a match, the associated block of code is executed**
+- The switch statement is often used together with a break or a default keyword
+
+![](https://miro.medium.com/max/784/1*Eon5a6NmdZwB1mGyADh0qA.png)
 
 
+## while loop
+**The while statement creates a loop that is executed while a specified condition is true. The loop will continue to run as long as the condition is true. It will only stop when the condition becomes false. ... do/while - loops through a block of code once, and then repeats the loop while a specified condition is true**
+- Example 
+![](https://i.stack.imgur.com/Ovdg0.png)
 
 
+----------------------------------------
 
-
+Table Of Content
+[](https://omarxzain.github.io/reading-notes/)
