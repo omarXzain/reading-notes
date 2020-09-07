@@ -5,7 +5,7 @@
 -------------------------
 - Class: 01  | [Introductory HTML and JavaScript](https://omarxzain.github.io/reading-notes/class-01)
 - Class: 02  |      [  Basics of HTML, CSS & JS  ](https://omarxzain.github.io/reading-notes/class-02)
-- Class: 03  | [read 3]()
+- Class: 03  | [HTML Lists, CSS Boxes, JS Control Flow](https://omarxzain.github.io/reading-notes/class-03)
 - Class: 04  | [read 4]()
 - Class: 05  | [read 5]()
 - Class: 06  | [read 6]()
