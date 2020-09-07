@@ -120,5 +120,4 @@ border-color: #0088dd;}
 
 ----------------------------------------
 
-Table Of Content
-[](https://omarxzain.github.io/reading-notes)
+[Table Of Content](https://omarxzain.github.io/reading-notes)
