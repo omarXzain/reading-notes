@@ -115,7 +115,7 @@ border-color: #0088dd;}
 ## while loop
 **The while statement creates a loop that is executed while a specified condition is true. The loop will continue to run as long as the condition is true. It will only stop when the condition becomes false. ... do/while - loops through a block of code once, and then repeats the loop while a specified condition is true**
 - Example 
-![](https://i.stack.imgur.com/Ovdg0.png)
+- ![](https://i.stack.imgur.com/Ovdg0.png)
 
 
 ----------------------------------------
