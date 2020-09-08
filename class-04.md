@@ -1,6 +1,6 @@
 # About Links
 **Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing**
-1. Links are created using the <a> element**
+1. Links are created using the <a> element
 2. You can use the id attribute to target elements within a page that can be linked to
 3. If you are linking to a page within your own site, it isbest to use relative links rather than qualified URLs.
 4. You can use the id attribute to target elements within a page that can be linked to.
