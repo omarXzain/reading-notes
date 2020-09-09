@@ -220,7 +220,7 @@ h2{
 
 ```
 
-![](https://dl.dropboxusercontent.com/s/8orxnp2m7hwfu0g/blinkx.gif)
+![](https://dl.dropboxusercontent.com/s/4vt107jluso9aky/blinkx.gif)
 
 
 ## text-indent
