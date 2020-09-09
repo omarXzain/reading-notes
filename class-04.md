@@ -164,24 +164,64 @@ The right-hand side of the box will not touch elements appearing in the same con
 ![](https://i.pinimg.com/originals/7d/90/0a/7d900aaac1bb49838ff31af6eabd5180.png)
  
 
+---------------------------------------------------------------------
+
+## WHAT IS A FUNCTION?
+- Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can
+reuse the function.
+
+Example
+```
+<!DOCTYPE html>
+<html>
+<head>
+Before the closing </body>
+tag, you can see the link to the
+JavaScript file. The JavaScript
+file starts with a variable used
+to hold a new message, and is
+followed by a function called
+updateMessage().
+<ti t l e>Basic Function</title>
+<l i nk rel ="stylesheet" href="css/ c03.css" />
+</head>
+<body>
+<hl>TravelWorthy</ hl>
+<div id="message">We lcome to our site! </ div>
+<script src="js/ basic-function .js"></script>
+</ body>
+</ html> 
+
+```
+
+![](https://i.pinimg.com/originals/d6/39/c8/d639c8f6b83a695271a8fa79d731266f.jpg)
 
 
+## HOW MEMORY & VARIABLES WORK
+
+- Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded
+
+## WHAT IS AN OBJECT?
+- Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object
 
 
+----------------------------------------------------------
+
+## 6 Reasons for Pair Programming
+
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
+
+- While learning to code, developers likely study several programming languages. Similar to a foreign language class, there are four fundamental skills that help anyone learn a new language
+
+-----------------------------------------
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+[Table of content](https://github.com/omarXzain/reading-notes)
 
 
 
