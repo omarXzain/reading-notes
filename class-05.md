@@ -268,5 +268,5 @@ focus : This is applied when an element has focus
 
 ------------------------------------------------------------------
 
-Table Of Content
+
 [Table Of Content](https://omarxzain.github.io/reading-notes/)
