@@ -223,9 +223,50 @@ text-decoration: none;}
 
 ```
 
-## text-align
+## text-indent
+The text-indent property allows you to indent the first line of text within an element. 
 
 
+```
+h1 {
+background-image: url("images/logo.gif");
+background-repeat: no-repeat;
+text-indent: -9999px;}
+.credits {
+text-indent: 20px;}
 
+```
+## Styling Links
 
+1. :link : This allows you to set styles for links that have not yet been visited
+2. :visited : This allows you to set styles for links that have been clicked on. 
 
+```
+
+a:link {
+color: deeppink;
+text-decoration: none;}
+a:visited {
+color: black;}
+a:hover {
+color: deeppink;
+text-decoration: underline;}
+a:active {
+color: darkcyan;}
+
+```
+
+## Responding to Users
+
+hover : This is applied when a user hovers over an element with a pointing device such as a mouse. 
+
+active : This is applied when an element is being activated by a user
+
+focus : This is applied when an element has focus
+
+![](https://i.pinimg.com/originals/e7/1d/9f/e71d9fa2e822556d63d6bf5075f174a3.gif)
+
+------------------------------------------------------------------
+
+Table Of Content
+[](https://omarxzain.github.io/reading-notes/)
