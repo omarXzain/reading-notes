@@ -107,25 +107,6 @@
 # Color
 - Color can really bring your pages to life.
 
-- About color - Foreground Color
-
-We Will use this code to color the h1
-
-```
-/* color name */
-h1 {
-color: DarkCyan;}
-/* hex code */
-h2 {
-color: #ee3e80;}
-/* rgb value */
-p {
-color: rgb(100,100,90);}
-
-```
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikihow.com%2FUse-Font-Color-Tags-in-HTML&psig=AOvVaw0LBYBC1K-ejJJbXqGHAubj&ust=1599762053482000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiLppzY3OsCFQAAAAAdAAAAABAJ)
-
-
 - You can specify any color in CSS in one of three ways:
 
 ### rgb values
@@ -208,12 +189,11 @@ font-style: italic;}
 
 
 ## text-decoration
-none : This removes any decoration already applied to the text.
-underline : This adds a line underneath the text.
-overline : This adds a line over the top of the text.
-line-through : This adds a line through words.
-blink : This animates the text to make it flash on and off
-
+- none : This removes any decoration already applied to the text.
+- underline : This adds a line underneath the text.
+- overline : This adds a line over the top of the text.
+- line-through : This adds a line through words.
+- blink : This animates the text to make it flash on and off
 
 ```
 #omar {
@@ -222,6 +202,26 @@ a {
 text-decoration: none;}
 
 ```
+
+- We Will use this code to color the h2
+
+```
+#CSS
+h2{
+  animation: blinker 1s linear infinite;
+  color: rgb(214, 34, 190);
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+```
+
+![](https://dl.dropboxusercontent.com/s/8orxnp2m7hwfu0g/blinkx.gif)
+
 
 ## text-indent
 The text-indent property allows you to indent the first line of text within an element. 
@@ -269,4 +269,4 @@ focus : This is applied when an element has focus
 ------------------------------------------------------------------
 
 Table Of Content
-[](https://omarxzain.github.io/reading-notes/)
+[Table Of Content](https://omarxzain.github.io/reading-notes/)
