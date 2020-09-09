@@ -49,13 +49,120 @@ To create a link that starts up the user's email program and addresses an email 
 
 \<a href="mailto:jon@example.org">Email Jon</a
 
+## Example About Links
+```
+<html>
+<head>
+ <title>Links</title>
+</head>
+<body>
+ <h1 id="top">Film Folk</h1>
+ <h2>Festival Diary</h2>
+ <p>Here are some of the film festivals we
+ will be attending this year.<br />Please
+ <a href="mailto:omar.zein2020@example.org">
+ <!-- addiaboutional content -->
+ <p><a href="about.html">About Film Folk</a></p>
+ <p><a href="#top">Top of page</a></p>
+</body>
+</html>
+```
 
 
+# About Layout
+**Page layout is used to make the web pages look better. ... It establishes the overall appearance, relative importance, and relationships between the graphic elements to achieve a smooth flow of information and eye movement for maximum effectiveness or impact**
+
+## More info About Layout
+- Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning.
+
+- You can include multiple CSS files in one page.
+
+- Pages can be fixed width or liquid (stretchy) layouts.
+
+- Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning.
+
+- The float property moves content to the left or right of the page and can be used to create multi-column layouts. 
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/layout.png)
+
+## Relative positioning
+
+- you can move it 10 pixels lower than it would have been in normal flow or 20% to the right. You can indicate that an element should be relatively positioned using the position property with a value of relative.
+
+-HTML
+```
+<body>
+<h1>The Evolution of the Bicycle</h1>
+<p>In 1817 Baron von Drais invented a walking
+ machine that would help him get around the
+ royal gardens faster...</p>
+</body>
+```
+- CSS
+```
+p.example {
+position: relative;
+top: 10px;
+left: 100px;}
+
+```
+- To move the box up or down, you can use either the top or bottom properties
+
+![](https://css-tricks.com/wp-content/csstricks-uploads/absolute-inside-relative.png)
+
+- To move the box horizontally, you can use either the left or right properties.
+
+## position:absolute
+
+o control where the fixed position box appears in relation to the browser window, the boxo ffset properties are used
 
 
+@About ele The float property
+
+allows you to take an element in normal flow and place it as far to thleft or right of the containing element as possible.
 
 
+```
+blockquote {
+ float: right;
+ width: 275px;
+ font-size: 130%;
+#blockquote {
+ float: right;
+ width: 275px;
+ font-size: 130%;
 
+}
+
+```
+
+## About Clearing Floats
+The clear property allows you to say that no element (within) he same containing element would touch the left or righthand sides of a box. It can take the following values:
+
+
+- left :
+The left-hand side of the box should not touch any other elements appearing in the same containing element.
+
+
+- right :
+The right-hand side of the box will not touch elements appearing in the same containing element.
+
+## About Liquid layout
+- it is a designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
+
+- To create a fixed width layout, the width of the main boxes on a page will usually be specified in pixels 
+
+
+![](https://image.slidesharecdn.com/pagelayout-150929142530-lva1-app6891/95/page-layouts-flexible-and-fixed-layout-with-css-11-638.jpg?cb=1443536908)
+
+
+## Layout Grids
+
+- Composition in any visual art (such as design, painting, or photography) is the placement or arrangement of visual elements
+
+
+![](https://i.pinimg.com/originals/7d/90/0a/7d900aaac1bb49838ff31af6eabd5180.png)
+ 
 
 
 
