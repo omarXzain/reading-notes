@@ -8,7 +8,7 @@
 - Class: 03  | [HTML Lists, CSS Boxes, JS Control Flow](https://omarxzain.github.io/reading-notes/class-03)
 - Class: 04  | [HTML Links, CSS Layout, JS Functions](https://omarxzain.github.io/reading-notes/class-04)
 - Class: 05  | [Readings : Images, Color, Text](https://omarxzain.github.io/reading-notes/class-05)
-- Class: 06  | [read 6]()
+- Class: 06  | [JS Object Literals; The DOM](https://omarxzain.github.io/reading-notes/class-06)
 - Class: 07  | [read 7]()
 - Class: 08  | [read 8]()
 - Class: 09  | [read 9]()
