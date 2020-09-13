@@ -17,6 +17,7 @@ var corgiFail = new EpicFailVideo(4, true);
 console.log(parkourFail);
 
 ---------------------------------
+
 ![](https://www.educative.io/api/edpresso/shot/5391633988190208/image/6039922861408256)
 
 - This is object-oriented programming in JavaScript at its most fundamental level.
@@ -32,7 +33,7 @@ console.log(parkourFail);
 
 
 - example
-```
+
 var EpicFailVideo = function(epicRating, hasAnimals) {
   this.epicRating = epicRating;
   this.hasAnimals = hasAnimals;
@@ -44,7 +45,7 @@ EpicFailVideo.prototype.generateRandom = function(min, max) {
 
 var parkourFail = new EpicFailVideo(7, false);
 var corgiFail = new EpicFailVideo(4, true);
-```
+
 
 ## Tips to follow when building your own domain models.
 
