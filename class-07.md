@@ -137,4 +137,4 @@ el .innerHTML = '<h2>random number</h2><p>' + randomNum + 1</p>';
 -----------------------------------------------
 
 
-![Table Of Content](https://omarxzain.github.io/reading-notes/)
+[Table Of Content](https://omarxzain.github.io/reading-notes/)
