@@ -5,7 +5,7 @@
 
 ## Define a constructor and initialize properties
 
-```
+----------------------------------
 var EpicFailVideo = function(epicRating, hasAnimals) {
   this.epicRating = epicRating;
   this.hasAnimals = hasAnimals;
@@ -16,8 +16,7 @@ var corgiFail = new EpicFailVideo(4, true);
 
 console.log(parkourFail);
 console.log(corgiFail);
-
-```
+---------------------------------
 ![](https://www.educative.io/api/edpresso/shot/5391633988190208/image/6039922861408256)
 
 - This is object-oriented programming in JavaScript at its most fundamental level.
