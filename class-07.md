@@ -45,9 +45,6 @@ EpicFailVideo.prototype.generateRandom = function(min, max) {
 
 var parkourFail = new EpicFailVideo(7, false);
 var corgiFail = new EpicFailVideo(4, true);
-
-console.log(parkourFail.generateRandom(1, 5));
-console.log(corgiFail.generateRandom(1, 5));
 ```
 
 ## Tips to follow when building your own domain models.
@@ -121,12 +118,13 @@ The headings of the table should sit inside the <thead> element.
 ## MATH OBJECT TO CREATE RANDOM NUMBERS
 - To get a random whole number between 1 and 10, you need to multiply the randomly generated number by 10. 
 - example
+
 ```
 var randomNum = Math.floor((Math.random() * 10) + l);
 var el = document.getElementByid('info');
 el .innerHTML = '<h2>random number</h2><p>' + randomNum + 1</p>'; 
-
 ```
+
 
 ## More About Functions, Methods,Objects
 - An object is a series of variables and functions that represent something from the world around you.
