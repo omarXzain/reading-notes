@@ -103,23 +103,31 @@ The headings of the table should sit inside the <thead> element.
 5. The object is in curly braces. It is stored in a variable called hotel.
 
 ## ADDING AND REMOVING PROPERTIES 
-
+![](https://i2.wp.com/cosmocode.io/wp-content/uploads/2019/04/js-iterating-object-properties.png?fit=712%2C400&ssl=1&w=640)
 - Once you have created an object you can add new properties to it. 
 
 - To delete a property, you use the keyword delete, and then use dot notation to identify the property or method you want to remove from the object. 
 
 
+## GLOBAL OBJECTS NUMBER OBJECT
+- Whenever you have a value that is a number, you can use the methods and properties of the Number object on it. 
+
+![](https://i.ytimg.com/vi/YqGtvScabnk/maxresdefault.jpg)
+
+- The Math object has properties and methods for mathematical constants and functions. 
 
 
+## MATH OBJECT TO CREATE RANDOM NUMBERS
+- To get a random whole number between 1 and 10, you need to multiply the randomly generated number by 10. 
+- example
+```
+var randomNum = Math.floor((Math.random() * 10) + l);
+var el = document.getElementByid('info');
+el .innerHTML = '<h2>random number</h2><p>' + randomNum + 1</p>'; 
 
+```
 
-
-
-
-
-
-
-
-
-
-
+## More About Functions, Methods,Objects
+- An object is a series of variables and functions that represent something from the world around you.
+- Functions can take parameters and may return a value. 
+- Arrays and objects can be used to create complex data sets.
