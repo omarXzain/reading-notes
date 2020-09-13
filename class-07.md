@@ -18,6 +18,7 @@ console.log(parkourFail);
 console.log(corgiFail);
 
 ```
+![](https://www.educative.io/api/edpresso/shot/5391633988190208/image/6039922861408256)
 
 - This is object-oriented programming in JavaScript at its most fundamental level.
 
@@ -61,13 +62,13 @@ console.log(corgiFail.generateRandom(1, 5));
 -------------------------------------------------------------
 
 # Tables
-- The <table> element is used to add tables to a web page.
-- A table is drawn out row by row. Each row is created with the <tr> element.
+- The \<table> element is used to add tables to a web page.
+- A table is drawn out row by row. Each row is created with the \<tr> element.
 - There are several types of information that need to be displayed in a grid or table.
 - A table represents information in a grid format.
 
 ### Basic Table Structure
-1. \<table> : The <table> element is used to create a table. The contents of the table are written out row by row.
+1. \<table> : The \<table> element is used to create a table. The contents of the table are written out row by row.
 2. \<tr> : You indicate the start of each row using the opening \<tr> tag. It is followed by one or more \<td> elements. At the end of the row you use a closing \</tr> tag.
 3. \<td> : Each cell of a table is represented using a <td> element.
 
@@ -131,3 +132,9 @@ el .innerHTML = '<h2>random number</h2><p>' + randomNum + 1</p>';
 - An object is a series of variables and functions that represent something from the world around you.
 - Functions can take parameters and may return a value. 
 - Arrays and objects can be used to create complex data sets.
+
+
+-----------------------------------------------
+
+
+![Table Of Content](https://omarxzain.github.io/reading-notes/)
