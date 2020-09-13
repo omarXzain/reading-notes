@@ -15,7 +15,7 @@ var parkourFail = new EpicFailVideo(7, false);
 var corgiFail = new EpicFailVideo(4, true);
 
 console.log(parkourFail);
-console.log(corgiFail);
+
 ---------------------------------
 ![](https://www.educative.io/api/edpresso/shot/5391633988190208/image/6039922861408256)
 
