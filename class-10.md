@@ -49,3 +49,7 @@ At that point, the interpreter stops and looks for exception-handl ing code.
 
 ## Note
 - If you know that you may get an error, you can handle it gracefully using the try, catch, finally statements. 
+
+-------------------------------------------
+
+[Table Of Content](https://omarxzain.github.io/reading-notes/)
