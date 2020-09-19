@@ -57,8 +57,8 @@ scroll: the background image moves up and down as the user scrolls up and down t
 > *Flash was once a very popular technology used to add animations, video and audio. All files created in Flash are referred to as Flash movies. These are created in a Flash authoring environment by Adobe. To be able to view these additions on the website, users need to install flash plugins and flash players. Flash movies have been replaced with the introduction of video sharing sites and HTML5.*
 *Example:*
 ``` ruby
-<video width="620" height="340" autoplay muted controls>
-  <source src="https://dl.dropboxusercontent.com/s/ph454mw8oyti5o8/Test.mp4" type="video/mp4">
+<video width="620" height="340" autoplay controls>
+  <source src="https://dl.dropboxusercontent.com/s/dd1esxknrzrp4uf/Test1.mp4" type="video/mp4">
 </video>
 ```
 # Search Engine Optimization (SEO)
