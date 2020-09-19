@@ -64,7 +64,8 @@ scroll: the background image moves up and down as the user scrolls up and down t
 </video>
 ```
 # Search Engine Optimization (SEO)
-***This is basically improving you websites visibility by applying some on- an off-page techniques.***
+- SEO is a huge topic and several books have been written on the subject. 
+
 ![](https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png)
 > Search Engine Optimization (SEO): is the practice of trying to help your site appear nearer the top of search engine results when people look for the topics that your website covers. In order to determine who comes first in the search results, search engines do not only look at what appears on your site. They also consider how many sites link to you (and how relevant those links are).
 
@@ -76,7 +77,9 @@ scroll: the background image moves up and down as the user scrolls up and down t
 2. Images can be aligned both horizontally and vertically using CSS.
 3. You can use a background image behind the box created by any element on a page. 
 
-
+- About SEO
+1. To put your site on the web, you will need to obtain a domain name and web hosting.
+2. FTP programs allow you to transfer files from your local computer to your web server
 
 --------------------------------------------------------
 
