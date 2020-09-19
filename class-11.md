@@ -49,7 +49,7 @@ scroll: the background image moves up and down as the user scrolls up and down t
 <video controls>
   <source src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4" type="video/mp4">
   <source src="test.webm" type="video/webm">
-  <p>Your browser doesn't support HTML5 video. Here is a <a href="test.mp4">link to the video</a> instead.</p>
+  <p>By Omar Zain <a href="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4">link to the video</a> instead.</p>
 </video>
 ```
 > *This will allow video to play in all modern browsers. The attribute `control` enables the default playback controls. The `HTMLMediaElement` API provides features to allow you to control video and audio players programmatically; this can also be done using JavaScript. You can style the video or audio element using CSS.*
