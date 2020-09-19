@@ -58,7 +58,7 @@ scroll: the background image moves up and down as the user scrolls up and down t
 *Example:*
 ``` ruby
 <video width="620" height="340" autoplay muted controls>
-  <source src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4" type="video/mp4">
+  <source src="https://dl.dropboxusercontent.com/s/ph454mw8oyti5o8/Test.mp4" type="video/mp4">
 </video>
 ```
 # Search Engine Optimization (SEO)
