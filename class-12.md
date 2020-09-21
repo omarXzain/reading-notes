@@ -1,6 +1,5 @@
 # About Canvas & Element & Chart.js
 
-
 ## Basic usage of Canvas
 Canvas is essentially an element that looks like an image but is empty (doesn't have a source), unlike an image tag though, canvas tags require a closing tag. This space, can be decided using the width and height attributes, however, if none were set the default for a canvas is 300px wide and 150px high.
 
@@ -35,12 +34,12 @@ Canvas is essentially an element that looks like an image but is empty (doesn't 
 4. no-repeat: Doesn't tile the image. It's used only once. 
 
 ## HTML Canvas Graphics
-- The HTML <canvas> element is used to draw graphics on a web page.
+- The HTML \<canvas> element is used to draw graphics on a web page.
 
 - The graphic to the left is created with . It shows four elements: a red rectangle, a gradient rectangle, a multicolor rectangle, and a multicolor text.
 
 ## What is HTML Canvas?
--The HTML element is used to draw graphics, on the fly, via JavaScript. The <canvas> element is only a container for graphics. You must use JavaScript to actually draw the graphics. Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
+-The HTML element is used to draw graphics, on the fly, via JavaScript. The \<canvas> element is only a container for graphics. You must use JavaScript to actually draw the graphics. Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
 
 ## Canvas Examples
 A canvas is a rectangular area on an HTML page. By default, a canvas has no border and no content.
