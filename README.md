@@ -14,8 +14,8 @@
 - Class: 09  | [Forms and Events](https://omarxzain.github.io/reading-notes/class-09)
 - Class: 10  | [JS Debugging](https://omarxzain.github.io/reading-notes/class-10)
 - Class: 11  | [Assorted Topics](https://omarxzain.github.io/reading-notes/class-11)
-- Class: 12  | [read 12](https://omarxzain.github.io/reading-notes/class-12)
-- Class: 13  | [read 13](https://omarxzain.github.io/reading-notes/class-13)
+- Class: 12  | [Element & Chart.js](https://omarxzain.github.io/reading-notes/class-12)
+- Class: 13  | [Local Storage](https://omarxzain.github.io/reading-notes/class-13)
 - Class: 14  | [read 14](https://omarxzain.github.io/reading-notes/class-14)
 - Class: 15  | [read 15](https://omarxzain.github.io/reading-notes/class-15)
 
