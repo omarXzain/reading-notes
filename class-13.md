@@ -46,3 +46,9 @@ To track changes you can trap the storage event; whenever the setItem(), removeI
 
 ## StorageEvent object properties
 ![](https://dl.dropboxusercontent.com/s/wdhv1o5r2apurm6/storageh.png)
+
+---------------------------------------------------------------------
+
+
+[Table Of Content](https://omarxzain.github.io/reading-notes/)
+
