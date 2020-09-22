@@ -4,7 +4,7 @@
 # Table Of Content:
 -------------------------
 - Class: 01  | [Introductory HTML and JavaScript](https://omarxzain.github.io/reading-notes/class-01)
-- Class: 02  |      [  Basics of HTML, CSS & JS  ](https://omarxzain.github.io/reading-notes/class-02)
+- Class: 02  | [  Basics of HTML, CSS & JS  ](https://omarxzain.github.io/reading-notes/class-02)
 - Class: 03  | [HTML Lists, CSS Boxes, JS Control Flow](https://omarxzain.github.io/reading-notes/class-03)
 - Class: 04  | [HTML Links, CSS Layout, JS Functions](https://omarxzain.github.io/reading-notes/class-04)
 - Class: 05  | [Readings : Images, Color, Text](https://omarxzain.github.io/reading-notes/class-05)
@@ -16,7 +16,8 @@
 - Class: 11  | [Assorted Topics](https://omarxzain.github.io/reading-notes/class-11)
 - Class: 12  | [Element & Chart.js](https://omarxzain.github.io/reading-notes/class-12)
 - Class: 13  | [Local Storage](https://omarxzain.github.io/reading-notes/class-13)
-- Class: 14  | [read 14](https://omarxzain.github.io/reading-notes/class-14)
+- Class: 14a  | [CSS Transforms, Transitions, and Animations](https://omarxzain.github.io/reading-notes/class-14a)
+- Class: 14b  | [What Google Learned About Teams](https://omarxzain.github.io/reading-notes/class-14b)
 - Class: 15  | [read 15](https://omarxzain.github.io/reading-notes/class-15)
 
 
