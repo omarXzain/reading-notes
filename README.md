@@ -18,7 +18,7 @@
 - Class: 13  | [Local Storage](https://omarxzain.github.io/reading-notes/class-13)
 - Class: 14a  | [CSS Transforms, Transitions, and Animations](https://omarxzain.github.io/reading-notes/class-14a)
 - Class: 14b  | [What Google Learned About Teams](https://omarxzain.github.io/reading-notes/class-14b)
-- Class: 15  | [read 15](https://omarxzain.github.io/reading-notes/class-15)
+
 
 
 
